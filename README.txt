@@ -1,0 +1,1 @@
+This project prot freeRTOS to Bluepill STM32F103C8 board.
